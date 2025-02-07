@@ -16,7 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fxker-c&show_icons=true&theme=dark&locale=en&layout=compact" alt="fxker-c" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxker-c&show_icons=true&theme=dark&locale=en" alt="fxker-c" /></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxker-C&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fxker-C&theme=dark&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
