@@ -17,6 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxker-c&show_icons=true&theme=dark&locale=en" alt="fxker-c" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fxker-c&theme=dark" alt="fxker-c" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fxker-c&theme=dark" alt="fxker-c" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
