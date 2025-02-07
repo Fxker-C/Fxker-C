@@ -4,7 +4,7 @@
 **Fxker-C/Fxker-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 Sobre Mi:
-👋 ¡Hola! Soy Benjamin, un desarrollador de software con localidad en Perú. <br>Desde que era joven, he estado fascinado por la tecnología y cómo puede transformar <br>nuestras vidas. <br>Mi viaje en el mundo del desarrollo de software comenzó con mi curiosidad por explorar <br>cómo funcionan las cosas y mi deseo de crear soluciones creativas a los problemas.<br>💻 Me especializo en el desarrollo web y próximamente móvil. Me apasiona construir aplicaciones elegantes y funcionales que mejoren la vida de las personas y generen un impacto positivo en la sociedad.<br>
+👋 ¡Hola! Soy Benjamin, un desarrollador de software con localidad en Perú. <br>Desde que era joven, he estado fascinado por la tecnología y cómo puede transformar <br>nuestras vidas. <br>Mi viaje en el mundo del desarrollo de software comenzó con mi curiosidad por explorar <br>cómo funcionan las cosas y mi deseo de crear soluciones creativas a los problemas.<br>💻 Me apasiona construir aplicaciones elegantes y funcionales que mejoren la vida de las personas y generen un impacto positivo en la sociedad.<br>
 
 
 ## 🌐 Social:
