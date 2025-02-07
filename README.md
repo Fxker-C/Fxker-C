@@ -17,7 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxker-c&show_icons=true&theme=dark&locale=en" alt="fxker-c" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fxker-c&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fxker-c&theme=dark)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
